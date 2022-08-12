@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "babel-preset-nano-react-app": "^0.1.0",
+    "sass": "^1.54.4",
     "vite": "^3.0.2"
   },
   "babel": {
